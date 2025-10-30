@@ -1,0 +1,409 @@
+ID,City,Age,First Name,Last Name,Designation Level,Project,Cost,Status,Bonus
+A002,Dublin,47,Mr. Jason,Adgra,1,Project 5,395519.27,Finished,19775.9635
+A002,Dublin,47,Mr. Jason,Adgra,1,Project 6,791079.3520000001,Finished,39553.9676
+A002,Dublin,47,Mr. Jason,Adgra,1,Project 7,409724.78,Finished,20486.239
+A002,Dublin,47,Mr. Jason,Adgra,1,Project 8,429023.35,Finished,21451.1675
+A003,London,25,Mr. Mark,Brown,3,Project 9,520937.74,Ongoing,0.0
+A003,London,25,Mr. Mark,Brown,3,Project 10,452793.26,Finished,22639.663
+A004,Berlin,41,Mr. Robert,Martin,2,Project 11,655895.5242000001,Failed,0.0
+A004,Berlin,41,Mr. Robert,Martin,2,Project 12,236415.07,Finished,11820.7535
+A004,Berlin,41,Mr. Robert,Martin,2,Project 13,191251.18,Ongoing,0.0
+A005,London,45,Mr. Tom,Martin,2,Project 14,735911.34,Ongoing,0.0
+A005,London,45,Mr. Tom,Martin,2,Project 15,614184.34,Finished,30709.217
+A005,London,45,Mr. Tom,Martin,2,Project 16,365061.99,Finished,18253.0995
+A005,London,45,Mr. Tom,Martin,2,Project 17,299054.29,Ongoing,0.0
+A005,London,45,Mr. Tom,Martin,2,Project 18,253760.98,Finished,12688.049
+A006,Oslo,50,Mr. Michael,Luxumberg,1,Project 19,1274660.45,Ongoing,0.0
+A006,Oslo,50,Mr. Michael,Luxumberg,1,Project 20,557417.73,Ongoing,0.0
+A006,Oslo,50,Mr. Michael,Luxumberg,1,Project 21,587128.40681,Ongoing,0.0
+A007,Madrid,36,Mr. Michael,Luxumberg,3,Project 22,587128.40681,Finished,29356.4203405
+A007,Madrid,36,Mr. Michael,Luxumberg,3,Project 23,476981.12,Failed,0.0
+A007,Madrid,36,Mr. Michael,Luxumberg,3,Project 24,301108.72,Finished,15055.436
+A008,New York,45,Mrs. Mia,Johny,2,Project 25,1326615.82,Ongoing,0.0
+A008,New York,45,Mrs. Mia,Johny,2,Project 26,899855.2,Finished,44992.76
+A009,New York,30,Mrs. Isabella,Smith,2,Project 27,247206.14,Finished,12360.307
+A009,New York,30,Mrs. Isabella,Smith,2,Project 28,720563.12,Failed,0.0
+A010,Berlin,47,Mr. Chris,Adgra,2,Project 29,227256.55,Finished,11362.8275
+A010,Berlin,47,Mr. Chris,Adgra,2,Project 30,345755.5,Finished,17287.775
+A011,Copenhagen,48,Mr. Paul,Brown,1,Project 31,901819.63,Finished,45090.9815
+A011,Copenhagen,48,Mr. Paul,Brown,1,Project 32,165102.21,Finished,8255.1105
+A012,Helsinki,30,Mrs. Lily,Jackson,1,Project 33,1483893.73,Finished,74194.6865
+A012,Helsinki,30,Mrs. Lily,Jackson,1,Project 34,817429.36,Ongoing,0.0
+A012,Helsinki,30,Mrs. Lily,Jackson,1,Project 35,302095.76,Ongoing,0.0
+A012,Helsinki,30,Mrs. Lily,Jackson,1,Project 36,1292360.2,Finished,64618.01
+A012,Helsinki,30,Mrs. Lily,Jackson,1,Project 37,571002.14,Finished,28550.107000000004
+A013,Prague,26,Mrs. Olivia,Thomas,1,Project 38,220197.43,Finished,11009.871500000001
+A013,Prague,26,Mrs. Olivia,Thomas,1,Project 39,1366910.68,Finished,68345.534
+A013,Prague,26,Mrs. Olivia,Thomas,1,Project 40,229652.18,Finished,11482.609
+A013,Prague,26,Mrs. Olivia,Thomas,1,Project 41,500096.93,Finished,25004.8465
+A014,Berlin,29,Mr. Kevin,Taylor,4,Project 42,729007.71,Finished,36450.3855
+A014,Berlin,29,Mr. Kevin,Taylor,4,Project 43,620041.3114242858,Failed,0.0
+A014,Berlin,29,Mr. Kevin,Taylor,4,Project 44,305217.39,Failed,0.0
+A014,Berlin,29,Mr. Kevin,Taylor,4,Project 45,674596.92,Finished,33729.846000000005
+A015,Lisbon,22,Mrs. Isabella,Lewis,3,Project 46,614257.571138762,Finished,30712.878556938103
+A015,Lisbon,22,Mrs. Isabella,Lewis,3,Project 47,814303.37,Failed,0.0
+A015,Lisbon,22,Mrs. Isabella,Lewis,3,Project 48,215111.74,Failed,0.0
+A015,Lisbon,22,Mrs. Isabella,Lewis,3,Project 49,794097.97,Finished,39704.8985
+A015,Lisbon,22,Mrs. Isabella,Lewis,3,Project 50,613864.5173955725,Ongoing,0.0
+A016,New York,33,Mrs. Emma,Sabestine,2,Project 51,619775.38,Finished,30988.769
+A016,New York,33,Mrs. Emma,Sabestine,2,Project 52,359460.39,Finished,17973.019500000002
+A016,New York,33,Mrs. Emma,Sabestine,2,Project 53,251887.06,Ongoing,0.0
+A016,New York,33,Mrs. Emma,Sabestine,2,Project 54,249416.56,Failed,0.0
+A017,Madrid,28,Mrs. Amy,Jackson,3,Project 55,246763.3,Finished,12338.165
+A017,Madrid,28,Mrs. Amy,Jackson,3,Project 56,640318.7,Ongoing,0.0
+A017,Madrid,28,Mrs. Amy,Jackson,3,Project 57,495714.01,Ongoing,0.0
+A017,Madrid,28,Mrs. Amy,Jackson,3,Project 58,309410.99,Finished,15470.549500000001
+A017,Madrid,28,Mrs. Amy,Jackson,3,Project 59,710525.15,Finished,35526.2575
+A018,Berlin,41,Mrs. Mia,Luxumberg,2,Project 60,390034.9,Ongoing,0.0
+A018,Berlin,41,Mrs. Mia,Luxumberg,2,Project 61,704072.17,Failed,0.0
+A018,Berlin,41,Mrs. Mia,Luxumberg,2,Project 62,238549.32,Failed,0.0
+A018,Berlin,41,Mrs. Mia,Luxumberg,2,Project 63,532095.23,Finished,26604.7615
+A019,Copenhagen,27,Mrs. Olivia,White,3,Project 64,465334.76,Failed,0.0
+A019,Copenhagen,27,Mrs. Olivia,White,3,Project 65,576665.3717152908,Failed,0.0
+A019,Copenhagen,27,Mrs. Olivia,White,3,Project 66,667927.44,Failed,0.0
+A019,Copenhagen,27,Mrs. Olivia,White,3,Project 67,553967.28,Finished,27698.364
+A019,Copenhagen,27,Mrs. Olivia,White,3,Project 68,617059.06,Ongoing,0.0
+A020,Warsaw,46,Mrs. Nina,Sabestine,2,Project 69,538894.75,Finished,26944.737500000003
+A020,Warsaw,46,Mrs. Nina,Sabestine,2,Project 70,298584.48,Finished,14929.224
+A020,Warsaw,46,Mrs. Nina,Sabestine,2,Project 71,126498.18,Failed,0.0
+A021,London,22,Mrs. Grace,Sabestine,3,Project 72,354770.19,Ongoing,0.0
+A021,London,22,Mrs. Grace,Sabestine,3,Project 73,206563.24,Failed,0.0
+A022,Zurich,31,Mrs. Charlotte,Clark,3,Project 74,407700.15,Finished,20385.007500000003
+A022,Zurich,31,Mrs. Charlotte,Clark,3,Project 75,180258.0,Finished,9012.9
+A022,Zurich,31,Mrs. Charlotte,Clark,3,Project 76,305973.21,Ongoing,0.0
+A023,Paris,36,Mrs. Charlotte,White,3,Project 77,407925.22,Failed,0.0
+A023,Paris,36,Mrs. Charlotte,White,3,Project 78,310867.69,Finished,15543.3845
+A023,Paris,36,Mrs. Charlotte,White,3,Project 79,281054.45,Finished,14052.722500000002
+A023,Paris,36,Mrs. Charlotte,White,3,Project 80,1278089.28,Ongoing,0.0
+A024,New York,26,Mrs. Olivia,Smith,3,Project 81,608398.56,Finished,30419.928000000004
+A024,New York,26,Mrs. Olivia,Smith,3,Project 82,115081.33,Ongoing,0.0
+A024,New York,26,Mrs. Olivia,Smith,3,Project 83,545644.6545304134,Ongoing,0.0
+A024,New York,26,Mrs. Olivia,Smith,3,Project 84,545644.6545304134,Finished,27282.232726520673
+A025,Zurich,31,Mrs. Alice,Brown,3,Project 85,228564.46,Finished,11428.223
+A025,Zurich,31,Mrs. Alice,Brown,3,Project 86,600262.01,Ongoing,0.0
+A025,Zurich,31,Mrs. Alice,Brown,3,Project 87,505957.32,Finished,25297.866
+A025,Zurich,31,Mrs. Alice,Brown,3,Project 88,551395.11,Finished,27569.7555
+A025,Zurich,31,Mrs. Alice,Brown,3,Project 89,1099907.88,Finished,54995.394
+A026,Oslo,45,Mr. Kevin,Taylor,3,Project 90,132091.31,Ongoing,0.0
+A026,Oslo,45,Mr. Kevin,Taylor,3,Project 91,915498.46,Ongoing,0.0
+A026,Oslo,45,Mr. Kevin,Taylor,3,Project 92,651449.76,Finished,32572.488
+A026,Oslo,45,Mr. Kevin,Taylor,3,Project 93,100000.0,Finished,5000.0
+A027,Berlin,25,Mrs. Zoe,Lewis,3,Project 94,216083.41,Finished,10804.1705
+A027,Berlin,25,Mrs. Zoe,Lewis,3,Project 95,317320.02,Finished,15866.001000000002
+A027,Berlin,25,Mrs. Zoe,Lewis,3,Project 96,461482.9,Finished,23074.145000000004
+A027,Berlin,25,Mrs. Zoe,Lewis,3,Project 97,726085.06,Ongoing,0.0
+A028,Warsaw,30,Mr. Daniel,Harris,1,Project 98,899696.16,Finished,44984.808000000005
+A028,Warsaw,30,Mr. Daniel,Harris,1,Project 99,551377.59,Finished,27568.8795
+A029,Warsaw,41,Mr. Jason,Martin,2,Project 100,387722.12,Failed,0.0
+A029,Warsaw,41,Mr. Jason,Martin,2,Project 101,541790.4455055473,Finished,27089.52227527737
+A029,Warsaw,41,Mr. Jason,Martin,2,Project 102,589654.63,Failed,0.0
+A029,Warsaw,41,Mr. Jason,Martin,2,Project 103,450638.49,Ongoing,0.0
+A031,Madrid,22,Mr. Tom,Smith,2,Project 106,422041.37,Finished,21102.0685
+A031,Madrid,22,Mr. Tom,Smith,2,Project 107,542470.5886975883,Finished,27123.529434879416
+A031,Madrid,22,Mr. Tom,Smith,2,Project 108,175762.21,Ongoing,0.0
+A031,Madrid,22,Mr. Tom,Smith,2,Project 109,291924.11,Ongoing,0.0
+A031,Madrid,22,Mr. Tom,Smith,2,Project 110,418613.38,Ongoing,0.0
+A032,Paris,38,Mr. Ryan,Taylor,3,Project 111,535733.2062785632,Ongoing,0.0
+A032,Paris,38,Mr. Ryan,Taylor,3,Project 112,535733.2062785632,Finished,26786.660313928165
+A032,Paris,38,Mr. Ryan,Taylor,3,Project 113,143460.91,Finished,7173.0455
+A032,Paris,38,Mr. Ryan,Taylor,3,Project 114,707507.74,Failed,0.0
+A032,Paris,38,Mr. Ryan,Taylor,3,Project 115,400819.26,Finished,20040.963000000003
+A033,Warsaw,53,Mrs. Zoe,Smith,1,Project 116,869494.56,Finished,43474.728
+A033,Warsaw,53,Mrs. Zoe,Smith,1,Project 117,535546.565286199,Finished,26777.328264309952
+A033,Warsaw,53,Mrs. Zoe,Smith,1,Project 118,427979.69,Finished,21398.984500000002
+A033,Warsaw,53,Mrs. Zoe,Smith,1,Project 119,387823.9,Ongoing,0.0
+A033,Warsaw,53,Mrs. Zoe,Smith,1,Project 120,533401.275029288,Finished,26670.063751464404
+A034,Stockholm,51,Mrs. Alice,Johny,1,Project 121,419587.48,Finished,20979.374
+A034,Stockholm,51,Mrs. Alice,Johny,1,Project 122,557812.47,Finished,27890.6235
+A034,Stockholm,51,Mrs. Alice,Johny,1,Project 123,593808.17,Finished,29690.408500000005
+A034,Stockholm,51,Mrs. Alice,Johny,1,Project 124,533165.5375895492,Finished,26658.27687947746
+A034,Stockholm,51,Mrs. Alice,Johny,1,Project 125,396261.82,Finished,19813.091
+A035,Madrid,50,Mrs. Emily,Jackson,2,Project 126,281270.84,Ongoing,0.0
+A035,Madrid,50,Mrs. Emily,Jackson,2,Project 127,440101.01,Finished,22005.0505
+A035,Madrid,50,Mrs. Emily,Jackson,2,Project 128,394476.21,Failed,0.0
+A036,Oslo,29,Mr. Daniel,Harris,3,Project 129,477488.41,Ongoing,0.0
+A036,Oslo,29,Mr. Daniel,Harris,3,Project 130,294886.42,Finished,14744.321
+A036,Oslo,29,Mr. Daniel,Harris,3,Project 131,439376.61,Finished,21968.8305
+A037,Copenhagen,45,Mrs. Mia,Adgra,3,Project 132,533149.15,Finished,26657.457500000004
+A037,Copenhagen,45,Mrs. Mia,Adgra,3,Project 133,680684.55,Failed,0.0
+A037,Copenhagen,45,Mrs. Mia,Adgra,3,Project 134,748662.82,Ongoing,0.0
+A037,Copenhagen,45,Mrs. Mia,Adgra,3,Project 135,297536.16,Finished,14876.807999999999
+A039,New York,22,Mr. Daniel,Smith,3,Project 140,524261.0765518067,Finished,26213.05382759034
+A039,New York,22,Mr. Daniel,Smith,3,Project 141,296911.34,Finished,14845.567000000003
+A039,New York,22,Mr. Daniel,Smith,3,Project 142,495174.1,Finished,24758.705
+A039,New York,22,Mr. Daniel,Smith,3,Project 143,470334.25,Ongoing,0.0
+A039,New York,22,Mr. Daniel,Smith,3,Project 144,100000.0,Finished,5000.0
+A041,New York,45,Mr. Paul,Johny,2,Project 147,517433.9284743351,Ongoing,0.0
+A041,New York,45,Mr. Paul,Johny,2,Project 148,544763.13,Finished,27238.1565
+A041,New York,45,Mr. Paul,Johny,2,Project 149,466460.31,Finished,23323.0155
+A041,New York,45,Mr. Paul,Johny,2,Project 150,517275.2411122635,Finished,25863.762055613177
+A041,New York,45,Mr. Paul,Johny,2,Project 151,585105.71,Failed,0.0
+A042,Berlin,50,Mrs. Emily,Alter,1,Project 152,523389.31,Ongoing,0.0
+A042,Berlin,50,Mrs. Emily,Alter,1,Project 153,328748.32,Ongoing,0.0
+A043,Madrid,54,Mr. Paul,Harris,1,Project 154,246455.33,Finished,12322.7665
+A043,Madrid,54,Mr. Paul,Harris,1,Project 155,514772.6288106462,Finished,25738.63144053231
+A043,Madrid,54,Mr. Paul,Harris,1,Project 156,358705.78,Failed,0.0
+A043,Madrid,54,Mr. Paul,Harris,1,Project 157,348642.58,Finished,17432.129
+A044,Copenhagen,43,Mrs. Olivia,White,3,Project 158,512720.41927165707,Finished,25636.020963582854
+A044,Copenhagen,43,Mrs. Olivia,White,3,Project 159,250222.19,Ongoing,0.0
+A044,Copenhagen,43,Mrs. Olivia,White,3,Project 160,511069.4870120869,Finished,25553.474350604345
+A044,Copenhagen,43,Mrs. Olivia,White,3,Project 161,511069.4870120869,Failed,0.0
+A044,Copenhagen,43,Mrs. Olivia,White,3,Project 162,822705.31,Ongoing,0.0
+A045,Helsinki,55,Mr. Tom,Lewis,1,Project 163,182055.26,Finished,9102.763
+A045,Helsinki,55,Mr. Tom,Lewis,1,Project 164,375537.24,Finished,18776.862
+A045,Helsinki,55,Mr. Tom,Lewis,1,Project 165,275519.19,Ongoing,0.0
+A045,Helsinki,55,Mr. Tom,Lewis,1,Project 166,678126.45,Finished,33906.3225
+A046,Berlin,25,Mrs. Ava,Thomas,2,Project 167,509735.72806593974,Finished,25486.78640329699
+A046,Berlin,25,Mrs. Ava,Thomas,2,Project 168,305506.78,Failed,0.0
+A047,Warsaw,49,Mr. Tom,Jackson,2,Project 169,283228.98,Failed,0.0
+A047,Warsaw,49,Mr. Tom,Jackson,2,Project 170,225697.2,Finished,11284.86
+A047,Warsaw,49,Mr. Tom,Jackson,2,Project 171,1865451.06,Finished,93272.55300000001
+A047,Warsaw,49,Mr. Tom,Jackson,2,Project 172,436790.45,Finished,21839.522500000003
+A047,Warsaw,49,Mr. Tom,Jackson,2,Project 173,728435.57,Finished,36421.7785
+A048,Paris,55,Mrs. Zoe,Smith,1,Project 174,226875.78,Finished,11343.789
+A048,Paris,55,Mrs. Zoe,Smith,1,Project 175,653761.27,Ongoing,0.0
+A048,Paris,55,Mrs. Zoe,Smith,1,Project 176,513437.7924400682,Finished,25671.88962200341
+A050,Berlin,49,Mr. Brian,Thomas,2,Project 180,651231.78,Finished,32561.589000000004
+A050,Berlin,49,Mr. Brian,Thomas,2,Project 181,511479.27348595276,Finished,25573.96367429764
+A051,Rome,26,Mrs. Isabella,White,2,Project 182,591437.68,Failed,0.0
+A051,Rome,26,Mrs. Isabella,White,2,Project 183,559868.38,Finished,27993.419
+A051,Rome,26,Mrs. Isabella,White,2,Project 184,387479.19,Failed,0.0
+A051,Rome,26,Mrs. Isabella,White,2,Project 185,326293.28,Finished,16314.664000000002
+A051,Rome,26,Mrs. Isabella,White,2,Project 186,256538.52,Ongoing,0.0
+A052,Lisbon,41,Mrs. Lily,Taylor,1,Project 187,382737.77,Ongoing,0.0
+A052,Lisbon,41,Mrs. Lily,Taylor,1,Project 188,524316.58,Ongoing,0.0
+A052,Lisbon,41,Mrs. Lily,Taylor,1,Project 189,269038.89,Finished,13451.944500000001
+A052,Lisbon,41,Mrs. Lily,Taylor,1,Project 190,887868.14,Finished,44393.40700000001
+A053,Prague,55,Mr. Paul,Brown,1,Project 191,759824.96,Finished,37991.248
+A053,Prague,55,Mr. Paul,Brown,1,Project 192,181365.81,Finished,9068.290500000001
+A053,Prague,55,Mr. Paul,Brown,1,Project 193,182476.49,Ongoing,0.0
+A054,Vienna,52,Mrs. Grace,Taylor,1,Project 194,1130934.17,Finished,56546.7085
+A054,Vienna,52,Mrs. Grace,Taylor,1,Project 195,359545.44,Ongoing,0.0
+A054,Vienna,52,Mrs. Grace,Taylor,1,Project 196,237452.72,Failed,0.0
+A054,Vienna,52,Mrs. Grace,Taylor,1,Project 197,508239.42102529306,Finished,25411.971051264656
+A054,Vienna,52,Mrs. Grace,Taylor,1,Project 198,508239.42102529306,Finished,25411.971051264656
+A055,Paris,31,Mrs. Olivia,Alter,2,Project 199,537985.82,Finished,26899.290999999997
+A055,Paris,31,Mrs. Olivia,Alter,2,Project 200,483689.38,Finished,24184.469
+A055,Paris,31,Mrs. Olivia,Alter,2,Project 201,750160.81,Ongoing,0.0
+A056,Vienna,51,Mrs. Ava,Anderson,1,Project 202,509468.8625522787,Ongoing,0.0
+A056,Vienna,51,Mrs. Ava,Anderson,1,Project 203,725010.37,Finished,36250.5185
+A057,Dublin,39,Mrs. Ava,White,1,Project 204,232474.31,Finished,11623.7155
+A057,Dublin,39,Mrs. Ava,White,1,Project 205,453692.91,Finished,22684.6455
+A057,Dublin,39,Mrs. Ava,White,1,Project 206,288408.77,Failed,0.0
+A057,Dublin,39,Mrs. Ava,White,1,Project 207,329409.94,Ongoing,0.0
+A058,Prague,53,Mr. Michael,Adgra,3,Project 208,573301.17,Finished,28665.058500000003
+A058,Prague,53,Mr. Michael,Adgra,3,Project 209,555680.8,Finished,27784.040000000005
+A058,Prague,53,Mr. Michael,Adgra,3,Project 210,808243.54,Finished,40412.177
+A058,Prague,53,Mr. Michael,Adgra,3,Project 211,508947.295455049,Finished,25447.36477275245
+A058,Prague,53,Mr. Michael,Adgra,3,Project 212,310766.73,Ongoing,0.0
+A060,Copenhagen,41,Mrs. Emily,Alter,2,Project 215,511987.31,Finished,25599.3655
+A060,Copenhagen,41,Mrs. Emily,Alter,2,Project 216,463859.18,Failed,0.0
+A060,Copenhagen,41,Mrs. Emily,Alter,2,Project 217,269209.76,Finished,13460.488000000001
+A060,Copenhagen,41,Mrs. Emily,Alter,2,Project 218,372864.92,Ongoing,0.0
+A061,New York,40,Mrs. Lily,Sabestine,1,Project 219,696206.83,Finished,34810.3415
+A061,New York,40,Mrs. Lily,Sabestine,1,Project 220,391206.41,Finished,19560.320499999998
+A061,New York,40,Mrs. Lily,Sabestine,1,Project 221,470316.11,Finished,23515.805500000002
+A062,Copenhagen,43,Mrs. Lily,Brown,2,Project 222,278264.5,Failed,0.0
+A062,Copenhagen,43,Mrs. Lily,Brown,2,Project 223,466706.18,Finished,23335.309
+A063,Berlin,25,Mr. Robert,Jackson,3,Project 224,505327.363412625,Finished,25266.36817063125
+A063,Berlin,25,Mr. Robert,Jackson,3,Project 225,1208116.14,Finished,60405.807
+A064,Berlin,33,Mrs. Ava,Harris,1,Project 226,988258.59,Finished,49412.9295
+A064,Berlin,33,Mrs. Ava,Harris,1,Project 227,1121422.42,Finished,56071.121
+A064,Berlin,33,Mrs. Ava,Harris,1,Project 228,130139.25,Finished,6506.962500000001
+A064,Berlin,33,Mrs. Ava,Harris,1,Project 229,387061.44,Ongoing,0.0
+A065,Paris,38,Mr. Alex,Johny,2,Project 230,382305.76,Ongoing,0.0
+A065,Paris,38,Mr. Alex,Johny,2,Project 231,510481.01306273043,Failed,0.0
+A065,Paris,38,Mr. Alex,Johny,2,Project 232,631071.49,Ongoing,0.0
+A066,Madrid,34,Mr. Paul,Clark,3,Project 233,511000.7996012531,Ongoing,0.0
+A066,Madrid,34,Mr. Paul,Clark,3,Project 234,475644.35,Failed,0.0
+A066,Madrid,34,Mr. Paul,Clark,3,Project 235,329266.35,Failed,0.0
+A066,Madrid,34,Mr. Paul,Clark,3,Project 236,1124136.65,Ongoing,0.0
+A066,Madrid,34,Mr. Paul,Clark,3,Project 237,178644.05,Finished,8932.2025
+A067,Madrid,51,Mrs. Charlotte,White,1,Project 238,511269.5261902615,Failed,0.0
+A067,Madrid,51,Mrs. Charlotte,White,1,Project 239,547564.65,Finished,27378.232500000002
+A067,Madrid,51,Mrs. Charlotte,White,1,Project 240,128022.97,Failed,0.0
+A068,New York,31,Mr. John,Alter,2,Project 241,509823.89522200933,Ongoing,0.0
+A068,New York,31,Mr. John,Alter,2,Project 242,100250.42,Finished,5012.521000000001
+A068,New York,31,Mr. John,Alter,2,Project 243,1407735.03,Finished,70386.7515
+A069,Vienna,34,Mr. Robert,Brown,1,Project 244,175837.47,Ongoing,0.0
+A069,Vienna,34,Mr. Robert,Brown,1,Project 245,452465.77,Finished,22623.288500000002
+A069,Vienna,34,Mr. Robert,Brown,1,Project 246,443303.23,Finished,22165.161500000002
+A069,Vienna,34,Mr. Robert,Brown,1,Project 247,669421.18,Finished,33471.059
+A069,Vienna,34,Mr. Robert,Brown,1,Project 248,114740.96,Finished,5737.048000000001
+A070,Zurich,25,Mr. David,Brown,1,Project 249,404621.62,Finished,20231.081000000002
+A070,Zurich,25,Mr. David,Brown,1,Project 250,478076.17,Ongoing,0.0
+A070,Zurich,25,Mr. David,Brown,1,Project 251,253487.38,Ongoing,0.0
+A070,Zurich,25,Mr. David,Brown,1,Project 252,185972.5,Finished,9298.625
+A070,Zurich,25,Mr. David,Brown,1,Project 253,1244431.48,Finished,62221.574
+A071,Warsaw,36,Mr. Brian,Jackson,3,Project 254,136908.8,Ongoing,0.0
+A071,Warsaw,36,Mr. Brian,Jackson,3,Project 255,507617.36519096163,Finished,25380.868259548082
+A071,Warsaw,36,Mr. Brian,Jackson,3,Project 256,506956.33,Finished,25347.8165
+A071,Warsaw,36,Mr. Brian,Jackson,3,Project 257,894013.42,Finished,44700.671
+A071,Warsaw,36,Mr. Brian,Jackson,3,Project 258,400212.11,Failed,0.0
+A072,London,42,Mrs. Zoe,Johny,1,Project 259,508696.1627275009,Finished,25434.808136375046
+A072,London,42,Mrs. Zoe,Johny,1,Project 260,1021002.14,Ongoing,0.0
+A072,London,42,Mrs. Zoe,Johny,1,Project 261,510666.5703323951,Finished,25533.328516619757
+A073,Madrid,37,Mrs. Ava,Martin,2,Project 262,517980.22,Ongoing,0.0
+A073,Madrid,37,Mrs. Ava,Martin,2,Project 263,478160.11,Ongoing,0.0
+A073,Madrid,37,Mrs. Ava,Martin,2,Project 264,509224.07,Finished,25461.203500000003
+A073,Madrid,37,Mrs. Ava,Martin,2,Project 265,724448.99,Ongoing,0.0
+A073,Madrid,37,Mrs. Ava,Martin,2,Project 266,615736.7,Finished,30786.835
+A074,Helsinki,26,Mr. Mark,Alter,4,Project 267,152362.0,Finished,7618.1
+A074,Helsinki,26,Mr. Mark,Alter,4,Project 268,435879.29,Failed,0.0
+A074,Helsinki,26,Mr. Mark,Alter,4,Project 269,681375.04,Ongoing,0.0
+A074,Helsinki,26,Mr. Mark,Alter,4,Project 270,468205.63,Finished,23410.2815
+A075,Madrid,30,Mr. Paul,Alter,3,Project 271,510619.80335835216,Finished,25530.99016791761
+A075,Madrid,30,Mr. Paul,Alter,3,Project 272,368099.78,Failed,0.0
+A075,Madrid,30,Mr. Paul,Alter,3,Project 273,775034.16,Failed,0.0
+A075,Madrid,30,Mr. Paul,Alter,3,Project 274,930227.46,Ongoing,0.0
+A076,New York,48,Mr. Alex,Lewis,2,Project 275,238489.92,Finished,11924.496000000001
+A076,New York,48,Mr. Alex,Lewis,2,Project 276,602271.34,Failed,0.0
+A078,Warsaw,35,Mr. Michael,Brown,3,Project 282,935629.93,Ongoing,0.0
+A078,Warsaw,35,Mr. Michael,Brown,3,Project 283,674915.61,Finished,33745.7805
+A078,Warsaw,35,Mr. Michael,Brown,3,Project 284,425009.56,Finished,21250.478000000003
+A079,Helsinki,25,Mr. Brian,Adgra,3,Project 285,421247.22,Failed,0.0
+A079,Helsinki,25,Mr. Brian,Adgra,3,Project 286,279063.38,Failed,0.0
+A079,Helsinki,25,Mr. Brian,Adgra,3,Project 287,448199.66,Ongoing,0.0
+A079,Helsinki,25,Mr. Brian,Adgra,3,Project 288,361104.12,Finished,18055.206000000002
+A080,Helsinki,51,Mr. Brian,Sabestine,2,Project 289,737305.61,Finished,36865.2805
+A080,Helsinki,51,Mr. Brian,Sabestine,2,Project 290,641482.26,Failed,0.0
+A080,Helsinki,51,Mr. Brian,Sabestine,2,Project 291,964667.58,Finished,48233.379
+A080,Helsinki,51,Mr. Brian,Sabestine,2,Project 292,253951.64,Finished,12697.582000000002
+A081,Warsaw,34,Mrs. Emily,Brown,2,Project 293,752643.19,Finished,37632.1595
+A081,Warsaw,34,Mrs. Emily,Brown,2,Project 294,309635.06,Finished,15481.753
+A082,Prague,34,Mrs. Isabella,Lewis,1,Project 295,421316.08,Ongoing,0.0
+A082,Prague,34,Mrs. Isabella,Lewis,1,Project 296,434383.4,Ongoing,0.0
+A082,Prague,34,Mrs. Isabella,Lewis,1,Project 297,383365.65,Finished,19168.2825
+A082,Prague,34,Mrs. Isabella,Lewis,1,Project 298,492502.86,Finished,24625.143
+A082,Prague,34,Mrs. Isabella,Lewis,1,Project 299,250039.14,Finished,12501.957000000002
+A083,Helsinki,37,Mrs. Isabella,Brown,2,Project 300,513430.23,Ongoing,0.0
+A083,Helsinki,37,Mrs. Isabella,Brown,2,Project 301,184385.25,Finished,9219.2625
+A083,Helsinki,37,Mrs. Isabella,Brown,2,Project 302,508686.6516947291,Ongoing,0.0
+A084,Oslo,51,Mr. Robert,Adgra,1,Project 303,264049.84,Ongoing,0.0
+A084,Oslo,51,Mr. Robert,Adgra,1,Project 304,1296535.96,Finished,64826.798
+A084,Oslo,51,Mr. Robert,Adgra,1,Project 305,368323.31,Finished,18416.1655
+A084,Oslo,51,Mr. Robert,Adgra,1,Project 306,510007.4685960924,Finished,25500.373429804622
+A085,Prague,30,Mrs. Olivia,Sabestine,3,Project 307,261844.93,Finished,13092.246500000001
+A085,Prague,30,Mrs. Olivia,Sabestine,3,Project 308,509199.12156483484,Ongoing,0.0
+A086,Zurich,28,Mrs. Nina,Brown,3,Project 309,169466.65,Ongoing,0.0
+A086,Zurich,28,Mrs. Nina,Brown,3,Project 310,930145.27,Finished,46507.2635
+A087,Dublin,43,Mr. Brian,Johny,1,Project 311,349089.29,Finished,17454.4645
+A087,Dublin,43,Mr. Brian,Johny,1,Project 312,714778.74,Finished,35738.937
+A087,Dublin,43,Mr. Brian,Johny,1,Project 313,509605.15830759343,Failed,0.0
+A087,Dublin,43,Mr. Brian,Johny,1,Project 314,1395854.18,Ongoing,0.0
+A087,Dublin,43,Mr. Brian,Johny,1,Project 315,512427.60742126347,Ongoing,0.0
+A088,Helsinki,49,Mr. David,Johny,1,Project 316,512427.6074212634,Ongoing,0.0
+A088,Helsinki,49,Mr. David,Johny,1,Project 317,663340.53,Failed,0.0
+A088,Helsinki,49,Mr. David,Johny,1,Project 318,1971772.05,Ongoing,0.0
+A088,Helsinki,49,Mr. David,Johny,1,Project 319,674623.98,Failed,0.0
+A088,Helsinki,49,Mr. David,Johny,1,Project 320,692582.2,Failed,0.0
+A089,Oslo,29,Mr. Kevin,Adgra,1,Project 321,348110.22,Finished,17405.511
+A089,Oslo,29,Mr. Kevin,Adgra,1,Project 322,296101.23,Finished,14805.0615
+A089,Oslo,29,Mr. Kevin,Adgra,1,Project 323,413458.92,Finished,20672.946
+A089,Oslo,29,Mr. Kevin,Adgra,1,Project 324,414286.19,Ongoing,0.0
+A090,Rome,39,Mrs. Amy,Taylor,2,Project 325,516670.98538617033,Finished,25833.549269308518
+A090,Rome,39,Mrs. Amy,Taylor,2,Project 326,642402.46,Failed,0.0
+A090,Rome,39,Mrs. Amy,Taylor,2,Project 327,769959.81,Finished,38497.99050000001
+A091,Lisbon,27,Mrs. Isabella,Harris,3,Project 328,268447.85,Finished,13422.3925
+A091,Lisbon,27,Mrs. Isabella,Harris,3,Project 329,283479.32,Finished,14173.966
+A091,Lisbon,27,Mrs. Isabella,Harris,3,Project 330,1057739.89,Failed,0.0
+A092,Lisbon,51,Mrs. Sophia,White,1,Project 331,401081.34,Finished,20054.067000000003
+A092,Lisbon,51,Mrs. Sophia,White,1,Project 332,517647.07226738776,Finished,25882.35361336939
+A092,Lisbon,51,Mrs. Sophia,White,1,Project 333,249016.43,Finished,12450.8215
+A092,Lisbon,51,Mrs. Sophia,White,1,Project 334,268975.62,Ongoing,0.0
+A092,Lisbon,51,Mrs. Sophia,White,1,Project 335,706413.75,Ongoing,0.0
+A093,Paris,48,Mr. Kevin,White,2,Project 336,1066631.84,Finished,53331.592000000004
+A093,Paris,48,Mr. Kevin,White,2,Project 337,518303.17152610933,Failed,0.0
+A093,Paris,48,Mr. Kevin,White,2,Project 338,212607.57,Finished,10630.3785
+A094,Helsinki,22,Mrs. Isabella,Clark,1,Project 339,517398.7466695232,Finished,25869.937333476162
+A094,Helsinki,22,Mrs. Isabella,Clark,1,Project 340,338557.43,Finished,16927.8715
+A095,Zurich,44,Mr. Robert,Jackson,2,Project 341,451952.06,Finished,22597.603000000003
+A095,Zurich,44,Mr. Robert,Jackson,2,Project 342,1040034.33,Finished,52001.7165
+A096,New York,34,Mr. Tom,Taylor,1,Project 343,229870.16,Ongoing,0.0
+A096,New York,34,Mr. Tom,Taylor,1,Project 344,453877.11,Finished,22693.8555
+A097,London,28,Mr. David,Anderson,4,Project 345,301599.89,Finished,15079.9945
+A097,London,28,Mr. David,Anderson,4,Project 346,516562.51043758955,Ongoing,0.0
+A097,London,28,Mr. David,Anderson,4,Project 347,529948.18,Ongoing,0.0
+A098,Stockholm,51,Mr. David,Johny,1,Project 348,260102.81,Finished,13005.140500000001
+A098,Stockholm,51,Mr. David,Johny,1,Project 349,408931.65,Ongoing,0.0
+A098,Stockholm,51,Mr. David,Johny,1,Project 350,404700.8,Finished,20235.04
+A098,Stockholm,51,Mr. David,Johny,1,Project 351,2286374.75,Finished,114318.7375
+A099,Copenhagen,39,Mrs. Mia,Johny,1,Project 352,520286.85698406264,Ongoing,0.0
+A099,Copenhagen,39,Mrs. Mia,Johny,1,Project 353,268167.67,Ongoing,0.0
+A099,Copenhagen,39,Mrs. Mia,Johny,1,Project 354,487197.28,Finished,24359.864
+A099,Copenhagen,39,Mrs. Mia,Johny,1,Project 355,895648.55,Ongoing,0.0
+A100,London,27,Mrs. Nina,Anderson,1,Project 356,520540.8088968734,Finished,26027.04044484367
+A100,London,27,Mrs. Nina,Anderson,1,Project 357,520540.8088968734,Finished,26027.04044484367
+A100,London,27,Mrs. Nina,Anderson,1,Project 358,520540.8088968733,Ongoing,0.0
+A100,London,27,Mrs. Nina,Anderson,1,Project 359,474975.27,Ongoing,0.0
+A100,London,27,Mrs. Nina,Anderson,1,Project 360,181861.88,Finished,9093.094000000001
+A101,Warsaw,37,Mr. Robert,Sabestine,1,Project 361,519473.46315300185,Finished,25973.673157650093
+A101,Warsaw,37,Mr. Robert,Sabestine,1,Project 362,636195.8,Failed,0.0
+A101,Warsaw,37,Mr. Robert,Sabestine,1,Project 363,519795.9005476068,Finished,25989.795027380344
+A101,Warsaw,37,Mr. Robert,Sabestine,1,Project 364,427288.97,Ongoing,0.0
+A101,Warsaw,37,Mr. Robert,Sabestine,1,Project 365,252241.68,Finished,12612.084
+A102,Warsaw,34,Mr. Ryan,Sabestine,2,Project 366,702684.83,Finished,35134.2415
+A102,Warsaw,34,Mr. Ryan,Sabestine,2,Project 367,509520.72,Finished,25476.036
+A102,Warsaw,34,Mr. Ryan,Sabestine,2,Project 368,864656.54,Failed,0.0
+A102,Warsaw,34,Mr. Ryan,Sabestine,2,Project 369,543725.87,Finished,27186.2935
+A103,Berlin,50,Mr. Paul,Taylor,2,Project 370,336462.42,Failed,0.0
+A103,Berlin,50,Mr. Paul,Taylor,2,Project 371,754402.87,Finished,37720.1435
+A104,Helsinki,31,Mrs. Zoe,Adgra,3,Project 372,193760.32,Finished,9688.016000000001
+A104,Helsinki,31,Mrs. Zoe,Adgra,3,Project 373,261851.43,Failed,0.0
+A104,Helsinki,31,Mrs. Zoe,Adgra,3,Project 374,518853.9076374833,Failed,0.0
+A104,Helsinki,31,Mrs. Zoe,Adgra,3,Project 375,518853.9076374833,Finished,25942.695381874168
+A105,Warsaw,45,Mr. Chris,Martin,1,Project 376,584293.43,Finished,29214.671500000004
+A105,Warsaw,45,Mr. Chris,Martin,1,Project 377,270374.88,Failed,0.0
+A105,Warsaw,45,Mr. Chris,Martin,1,Project 378,523309.73,Failed,0.0
+A105,Warsaw,45,Mr. Chris,Martin,1,Project 379,1137600.34,Ongoing,0.0
+A106,New York,43,Mr. John,Taylor,1,Project 380,233415.69,Finished,11670.784500000002
+A106,New York,43,Mr. John,Taylor,1,Project 381,257783.47,Ongoing,0.0
+A107,Rome,26,Mr. David,Luxumberg,3,Project 382,185236.0,Finished,9261.800000000001
+A107,Rome,26,Mr. David,Luxumberg,3,Project 383,144014.41,Ongoing,0.0
+A107,Rome,26,Mr. David,Luxumberg,3,Project 384,332346.81,Finished,16617.340500000002
+A107,Rome,26,Mr. David,Luxumberg,3,Project 385,526385.81,Finished,26319.290500000003
+A108,Vienna,49,Mr. David,Thomas,2,Project 386,513892.21,Ongoing,0.0
+A108,Vienna,49,Mr. David,Thomas,2,Project 387,319805.74,Ongoing,0.0
+A108,Vienna,49,Mr. David,Thomas,2,Project 388,236137.2,Failed,0.0
+A109,Warsaw,34,Mrs. Ava,Smith,1,Project 389,1454267.73,Finished,72713.38650000001
+A109,Warsaw,34,Mrs. Ava,Smith,1,Project 390,291792.23,Failed,0.0
+A109,Warsaw,34,Mrs. Ava,Smith,1,Project 391,1119369.75,Failed,0.0
+A109,Warsaw,34,Mrs. Ava,Smith,1,Project 392,2231099.79,Finished,111554.98950000001
+A110,Warsaw,33,Mrs. Lily,Alter,2,Project 393,1076041.43,Finished,53802.0715
+A110,Warsaw,33,Mrs. Lily,Alter,2,Project 394,561841.28,Finished,28092.064000000002
+A111,Vienna,28,Mr. John,Alter,1,Project 395,241524.99,Finished,12076.2495
+A111,Vienna,28,Mr. John,Alter,1,Project 396,438891.44,Finished,21944.572
+A111,Vienna,28,Mr. John,Alter,1,Project 397,490782.25,Finished,24539.112500000003
+A111,Vienna,28,Mr. John,Alter,1,Project 398,523275.62210089725,Finished,26163.781105044865
+A112,New York,55,Mrs. Sophia,Clark,1,Project 399,768796.86,Finished,38439.843
+A112,New York,55,Mrs. Sophia,Clark,1,Project 400,247343.17,Finished,12367.158500000001
+A112,New York,55,Mrs. Sophia,Clark,1,Project 401,474095.93,Ongoing,0.0
+A112,New York,55,Mrs. Sophia,Clark,1,Project 402,1116295.7,Ongoing,0.0
+A112,New York,55,Mrs. Sophia,Clark,1,Project 403,766238.63,Finished,38311.9315
+A113,Oslo,43,Mrs. Charlotte,Lewis,3,Project 404,464438.68,Ongoing,0.0
+A113,Oslo,43,Mrs. Charlotte,Lewis,3,Project 405,437029.77,Failed,0.0
+A113,Oslo,43,Mrs. Charlotte,Lewis,3,Project 406,100000.0,Ongoing,0.0
+A113,Oslo,43,Mrs. Charlotte,Lewis,3,Project 407,734147.31,Finished,36707.36550000001
+A113,Oslo,43,Mrs. Charlotte,Lewis,3,Project 408,224104.93,Finished,11205.246500000001
+A114,Prague,43,Mrs. Grace,Brown,1,Project 409,320663.72,Finished,16033.186
+A114,Prague,43,Mrs. Grace,Brown,1,Project 410,956111.58,Ongoing,0.0
+A114,Prague,43,Mrs. Grace,Brown,1,Project 411,561757.53,Ongoing,0.0
+A114,Prague,43,Mrs. Grace,Brown,1,Project 412,570909.83,Finished,28545.4915
+A115,Oslo,52,Mrs. Sophia,Johny,2,Project 413,524285.5127091193,Failed,0.0
+A115,Oslo,52,Mrs. Sophia,Johny,2,Project 414,875901.79,Ongoing,0.0
+A115,Oslo,52,Mrs. Sophia,Johny,2,Project 415,217770.84,Failed,0.0
+A115,Oslo,52,Mrs. Sophia,Johny,2,Project 416,845950.54,Finished,42297.527
+A115,Oslo,52,Mrs. Sophia,Johny,2,Project 417,640831.79,Failed,0.0
+A116,Paris,50,Mrs. Alice,Johny,2,Project 418,525444.5364721013,Finished,26272.22682360507
+A116,Paris,50,Mrs. Alice,Johny,2,Project 419,481659.78,Ongoing,0.0
+A117,Stockholm,34,Mr. Ryan,Anderson,1,Project 420,731254.42,Finished,36562.721000000005
+A117,Stockholm,34,Mr. Ryan,Anderson,1,Project 421,434860.01,Finished,21743.000500000002
+A117,Stockholm,34,Mr. Ryan,Anderson,1,Project 422,179493.19,Finished,8974.6595
+A118,Oslo,34,Mr. John,Sabestine,1,Project 423,462866.12,Finished,23143.306
+A118,Oslo,34,Mr. John,Sabestine,1,Project 424,246344.28,Finished,12317.214
+A118,Oslo,34,Mr. John,Sabestine,1,Project 425,399052.99,Finished,19952.6495
+A118,Oslo,34,Mr. John,Sabestine,1,Project 426,703274.53,Finished,35163.726500000004
+A119,Zurich,29,Mrs. Emily,Taylor,4,Project 427,289646.7,Finished,14482.335000000001
+A119,Zurich,29,Mrs. Emily,Taylor,4,Project 428,190003.31,Finished,9500.165500000001
+A119,Zurich,29,Mrs. Emily,Taylor,4,Project 429,522790.35414798674,Failed,0.0
+A119,Zurich,29,Mrs. Emily,Taylor,4,Project 430,175003.96,Ongoing,0.0
