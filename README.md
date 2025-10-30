@@ -1,4 +1,4 @@
-# Python-fundamentals.
+# Python Capstone fundamentals.
 A collection of Python scripts and notebooks covering foundational programming concepts for data analysis and automation.
 # 🐍 Python Fundamentals
 
